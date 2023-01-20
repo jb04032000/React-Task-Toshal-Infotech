@@ -1,0 +1,17 @@
+.filter-date-section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+}
+.add-date-section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.actions{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
